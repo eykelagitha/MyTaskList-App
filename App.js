@@ -1,9 +1,3 @@
-// App.js
-// MyTaskList App — Mini Project P07
-// Nama  : Eykel Agitha Kembaren
-// NIM   : [NIM Anda]
-// Prodi : Sistem Informasi
-
 import React, { useState, useCallback, useMemo } from 'react';
 import {
   View,
