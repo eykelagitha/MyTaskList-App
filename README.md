@@ -1,5 +1,5 @@
 # ✅ MyTaskList App
-### Mini Project P07 — Mobile Programming Practicum
+### Mini Project P07 — Praktek Pemrograman Mobile (React Native)
 
 ---
 
@@ -92,7 +92,7 @@ MyTaskList-App/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/[username]/MyTaskList-App.git
+git clone https://github.com/eykelagitha/MyTaskList-App.git
 cd MyTaskList-App
 
 # 2. Install dependencies
@@ -112,8 +112,8 @@ npx expo start
 
 | Platform | Link |
 |---|---|
-| **GitHub** | https://github.com/[username]/MyTaskList-App |
-| **Expo Snack** | *(tambahkan link Expo Snack setelah deploy)* |
+| **GitHub** | https://github.com/eykelagitha/MyTaskList-App.git |
+| **Expo Snack** | https://snack.expo.dev/@eykel21/mytasklist-app |
 
 ---
 
