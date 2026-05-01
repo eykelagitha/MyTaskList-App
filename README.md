@@ -76,23 +76,9 @@ MyTaskList-App/
 
 ## 📸 Screenshot App di HP Fisik
 
-> **⚠️ WAJIB:** Tambahkan screenshot HP fisik kamu di sini setelah menjalankan app!
-
-```
-[Tambahkan screenshot di sini]
-Caranya:
-1. Jalankan npx expo start
-2. Scan QR Code dengan HP fisik
-3. Screenshot app yang berjalan
-4. Upload ke folder assets/ atau paste langsung di README
-```
-
-Contoh format:
-```markdown
-![Screenshot Home]<img src="assets/screenshot-home.jpeg" width="300"/>
-![Screenshot Add Task]<img src="assets/screenshot-add.jpeg" width="300"/>
-![Screenshot Filter]<img src="assets/screenshot-filter.jpeg" width="300"/>
-```
+| Home | Add Task | Filter |
+|------|----------|--------|
+| ![Home](assets/screenshot-home.jpeg) | ![Add Task](assets/screenshot-add.jpeg) | ![Filter](assets/screenshot-filter.jpeg) |
 
 ---
 
